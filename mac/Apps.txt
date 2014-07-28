@@ -1,0 +1,75 @@
+App Store.app
+Automator.app
+Calculator.app
+Calendar.app
+Chess.app
+Cog.app
+Contacts.app
+DVD Player.app
+Dash.app
+Dashboard.app
+Dictionary.app
+Dropbox.app
+FaceTime.app
+FileZilla.app
+Firefox.app
+Font Book.app
+GIMP.app
+Game Center.app
+GarageBand.app
+Google Chrome.app
+Image Capture.app
+Launchpad.app
+MacDown.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Silverlight
+Mission Control.app
+Notes.app
+OpenOffice.app
+Photo Booth.app
+Preview.app
+QuickTime Player.app
+Reminders.app
+Safari.app
+Skype.app
+Spotify.app
+Stickies.app
+Sublime Text 2.app
+System Preferences.app
+TextEdit.app
+Textual.app
+Time Machine.app
+Tomighty.app
+Vagrant
+Vienna.app
+VirtualBox.app
+Xcode.app
+iPhoto.app
+iTerm.app
+iTunes.app
+pgAdmin3.app
+Activity Monitor.app
+Adobe AIR Application Installer.app
+Adobe AIR Uninstaller.app
+Adobe Application Manager
+Adobe Flash Player Install Manager.app
+Adobe Installers
+AirPort Utility.app
+AppleScript Editor.app
+Audio MIDI Setup.app
+Bluetooth File Exchange.app
+Boot Camp Assistant.app
+ColorSync Utility.app
+Console.app
+DigitalColor Meter.app
+Disk Utility.app
+Grab.app
+Grapher.app
+Keychain Access.app
+Migration Assistant.app
+System Information.app
+Terminal.app
+VoiceOver Utility.app
+XQuartz.app
