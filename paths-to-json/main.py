@@ -16,7 +16,7 @@ def path_list_to_dict(path_list):
     d = {}
     for path in path_list:
         current_level = d
-        for part in path.split("/"):
+        for part in filter(None, path.split("/")):
             if part not in current_level:
                 current_level[part] = {}
             current_level = current_level[part]
