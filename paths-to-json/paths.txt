@@ -1,0 +1,3 @@
+/foo/par/tar
+/foo/tar/bar
+/root/dev/bar
